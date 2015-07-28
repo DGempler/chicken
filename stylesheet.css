@@ -13,3 +13,8 @@ body {
 ul {
 	list-style-type: square;
 }
+p {
+	font-size: 16px;
+	color: brown;
+	font-family: Zapfino, cursive;
+}
